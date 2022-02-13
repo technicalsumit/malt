@@ -1,0 +1,16 @@
+#topri{
+	float: right;
+	text-align: center;
+}
+
+#title{
+	background-color: #402950;
+}
+
+.img-fluid{
+	width: 100%;
+}
+
+#ch{
+	color: white;
+}
